@@ -20,6 +20,9 @@ nav a{
  figcaption{
    font-size:smaller
 }
-
+p { 
+  text-align: center;
+  width: 800px;
+}
 
 
