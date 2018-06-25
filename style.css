@@ -27,7 +27,7 @@ nav a{
   text-align: center;
 }
 
-#details divs {
+#details > div {
   display:block;
   margin: auto;
   
