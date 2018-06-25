@@ -26,11 +26,12 @@ nav a{
 
 }
 #details {
-  margin: auto;
-  
-  
   display:block;
-  
+  margin: auto;
+  background-color:beige;
+  text-align: center;
+  width: 25%;
+ 
 }
 
 
