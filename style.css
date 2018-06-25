@@ -22,12 +22,12 @@ nav a{
    font-size:smaller;
    text-align: center;
 }
-featured-property > p { 
+#featured-property { 
   max-width: 800px;
   text-align: center;
 }
 
-details > div {
+ #details {
   display:block;
   margin: auto;
   
