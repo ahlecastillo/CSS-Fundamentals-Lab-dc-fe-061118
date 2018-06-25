@@ -23,7 +23,9 @@ nav a{
 p { 
   text-align: center;
   width: 800px;
-
 }
-
+title {
+  color: blue;
+  
+}
 
