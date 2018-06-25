@@ -19,6 +19,7 @@ nav a{
 }
  figcaption{
    font-size:smaller
+   text-align: center;
 }
 p { 
   text-align: center;
