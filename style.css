@@ -27,9 +27,9 @@ nav a{
   text-align: center;
 }
 
-#details div style {
+#details {
   display:block;
-  float: left;
+  margin: auto;
   
 }
 
