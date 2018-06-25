@@ -28,7 +28,7 @@ nav a{
 #details {
   display:block;
   margin: auto;
-  
+  float: left;
   
 }
 div {
