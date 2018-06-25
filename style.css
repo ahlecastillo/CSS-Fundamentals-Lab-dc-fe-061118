@@ -28,9 +28,10 @@ nav a{
 #details {
   display:block;
   margin: auto;
-  background-color:beige;
-  text-align: center;
-  width: 25%;
+  float: left;
+  
 }
-
+div {
+  background-color
+}
 
